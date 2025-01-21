@@ -13,7 +13,7 @@ Nafath is the Saudi National Digital Identity Management platform developed by t
 ## Repository Contents
 
 - **Data/**: Contains the raw Excel file with Nafath Platform Statistics.
-- **Nafath.ipynb**: Is the Jupyter Notebook detailing the data analysis process.
+- **Nafath.ipynb**: Is the Jupyter Notebook for the data cleaning process.
 - **nafath-dashboard**: Is an image of the 'Nafath Platform Statistics' dashboard.
 
 
