@@ -7,7 +7,7 @@ This repository provides an analysis of the Nafath platform's user statistics as
 
 ## About Nafath
 
-Nafath is the Saudi National Digital Identity Management platform developed by the Saudi Data and Artificial Intelligence Authority (SDAIA). It aims to provide secure and unified digital identity services to individuals and organizations within the Kingdom. This platform plays a crucial role in facilitating digital transactions and enhancing cybersecurity across various sectors.
+[Nafath](https://www.iam.gov.sa/sso/about) is the Saudi National Digital Identity Management platform developed by the Saudi Data and Artificial Intelligence Authority (SDAIA). It aims to provide secure and unified digital identity services to individuals and organizations within the Kingdom. This platform plays a crucial role in facilitating digital transactions and enhancing cybersecurity across various sectors.
 
 
 ## Repository Contents
