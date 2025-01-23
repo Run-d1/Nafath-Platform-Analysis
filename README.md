@@ -43,4 +43,4 @@ Nafath is the Saudi National Digital Identity Management platform developed by t
 
 ## Data Source
 
-The data is sourced from [SDAIA's Open Data] (https://open.data.gov.sa/en/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources)
+The data is sourced from [SDAIA's Open Data](https://open.data.gov.sa/en/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources).
