@@ -6,6 +6,7 @@ This repository provides an analysis of the Nafath platform's user statistics as
 
 
 
+
 ## About Nafath
 
 [Nafath](https://www.iam.gov.sa/sso/about) is the Saudi National Digital Identity Management platform developed by the Saudi Data and Artificial Intelligence Authority (SDAIA). It aims to provide secure and unified digital identity services to individuals and organizations within the Kingdom. This platform plays a crucial role in facilitating digital transactions and enhancing cybersecurity across various sectors.
@@ -32,7 +33,10 @@ This repository provides an analysis of the Nafath platform's user statistics as
 4. **App Adoption**: **89.3%** app adoption with **20.8M** downloads out of **23.3M** users.  
 5. **Age Distribution**: Largest user group: **30-40 years old** (31.1%), followed by **20-30 years old** (28.3%). Only **2.8%** of users are **60-70** years old.
 
+#
 ###
+
+
 
 ### **Insights in Detail**
 
