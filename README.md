@@ -13,14 +13,14 @@ Nafath is the Saudi National Digital Identity Management platform developed by t
 ## Repository Contents
 
 - **Data/**: Contains the raw Excel file with Nafath Platform Statistics.
-- **Nafath.ipynb**: Is the Jupyter Notebook for the data cleaning process.
+- **Nafath.ipynb**: Is the Jupyter Notebook used for the data cleaning process.
 - **nafath-dashboard**: Is an image of the 'Nafath Platform Statistics' dashboard.
 
 
 ## Key Insights
 
 1. **User Penetration**:  
-   - As of July 2024, the Saudi population was approximately 33,962,800. ([source: World Population Review](https://worldpopulationreview.com/countries/saudi-arabia))
+   - As of July 2024, the Saudi population was approximately 33,962,800. ([Source: World Population Review](https://worldpopulationreview.com/countries/saudi-arabia))
    - The Nafath platform had **23,297,934** users, achieving a penetration rate of **68.6%**, indicating widespread adoption nationwide.
    - The July 2024 population figure is used to align with the last data update timestamp (2024-07-03 16:34:18) from SDAIA's Open Data, ensuring accuracy and relevance.
 
@@ -43,4 +43,4 @@ Nafath is the Saudi National Digital Identity Management platform developed by t
 
 ## Data Source
 
-The data is sourced from SDAIA's Open Data.
+The data is sourced from ([SDAIA's Open Data](https://open.data.gov.sa/en/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources))
