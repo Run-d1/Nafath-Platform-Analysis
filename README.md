@@ -19,6 +19,17 @@ This repository provides an analysis of the Nafath platform's user statistics as
 
 ## Key Insights
 
+### **Summarized Insights**
+
+1. **User Penetration**: **68.6%** of Saudi residents use Nafath (23.3M users) out of a population of **33.96M** (as of July 2024).  
+2. **Authentication Requests**: Each user made an average of **89** requests, totaling **2.08 billion** requests.  
+3. **Gender Distribution**: **67%** male, **33%** female users.  
+4. **App Adoption**: **89.3%** app adoption with **20.8M** downloads out of **23.3M** users.  
+5. **Age Distribution**: Largest user group: **30-40 years old** (31.1%), followed by **20-30 years old** (28.3%). Only **2.8%** of users are **60-70** years old.
+
+
+### **Insights in Detail**
+
 1. **User Penetration**:  
    - As of July 2024, the Saudi population was approximately 33,962,800. ([Source: World Population Review](https://worldpopulationreview.com/countries/saudi-arabia))
    - The Nafath platform had **23,297,934** users, achieving a penetration rate of **68.6%**, indicating widespread adoption nationwide.
