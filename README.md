@@ -22,7 +22,7 @@ This repository provides an analysis of the Nafath platform's user statistics as
 1. **User Penetration**:  
    - As of July 2024, the Saudi population was approximately 33,962,800. ([Source: World Population Review](https://worldpopulationreview.com/countries/saudi-arabia))
    - The Nafath platform had **23,297,934** users, achieving a penetration rate of **68.6%**, indicating widespread adoption nationwide.
-   - The July 2024 population figure is used to align with the last data update timestamp (2024-07-03 16:34:18) from SDAIA's Open Data, ensuring accuracy and relevance.
+   - The July 2024 population figure is used to align with the last data update timestamp (2024-07-03 16:34:18) from [SDAIA's Open Data](https://open.data.gov.sa/en/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources), ensuring accuracy and relevance.
 
 2. **Authentication Requests per User**:  
    - With a total of **2,075,830,418** authentication requests and **23,297,934** users, the average number of requests per user was approximately **89**.  
