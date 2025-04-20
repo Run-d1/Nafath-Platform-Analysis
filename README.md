@@ -36,7 +36,7 @@
 
 
 ## مصدر البيانات
-البيانات مستخلصة من  [بيانات سدايا المفتوحة](https://open.data.gov.sa/en/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources).
+البيانات مستخلصة من  [بيانات سدايا المفتوحة](https://open.data.gov.sa/ar/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources).
 
 
 
