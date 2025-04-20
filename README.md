@@ -74,7 +74,7 @@ This repository provides an analysis of the Nafath platform's user statistics as
 ### **Insights in Detail**
 
 1. **User Penetration**:  
-   - As of mid-2024, the Saudi population was approximately 35,300,000. ([Source: General Authority for Statistics](https://www.stats.gov.sa/documents/20117/2067012/Population+Estimates+Publication+2024.pdf/aaf4f65c-8a9a-6f52-2490-6eb705e626e6?t=1738828639304))
+   - As of mid-2024, the Saudi population was approximately 35,300,000. ([Source: General Authority for Statistics](https://www.stats.gov.sa/documents/20117/2067012/Population+Estimates+Statistics+2024+EN.pdf/9b71e303-5fd9-19cb-9913-850a9d521639?t=1738859947691))
    - The Nafath platform had **23,297,934** users, achieving a penetration rate of approximately **66.0%**, indicating widespread adoption nationwide.
    - The mid-2024 population figure is used to align with the last data update timestamp (2024-07-03 16:34:18) from [SDAIA's Open Data](https://open.data.gov.sa/en/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources), ensuring accuracy and relevance.
 
