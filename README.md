@@ -16,6 +16,7 @@
 
 ١. **انتشار المستخدمين**
    - يبلغ عدد سكان المملكة (يوليو 2024) حوالي **33,962,800** نسمة، بينما بلغ عدد مستخدمي منصة نفاذ **23,297,934**، مما يعكس معدل انتشار بنسبة **68.6%**.
+   - بلغ عدد سكان المملكة في منتصف عام 2024 حوالي **35,300,000** نسمة ([المصدر: الهيئة العامة للإحصاء](https://www.stats.gov.sa/documents/20117/2067012/Population+Estimates+Publication+2024.pdf/aaf4f65c-8a9a-6f52-2490-6eb705e626e6?t=1738828639304))، بينما بلغ عدد مستخدمي منصة نفاذ **23,297,934**، مما يعكس معدل انتشار بنسبة **66.0%** تقريبًا.
    - يشير هذا الرقم إلى اعتماد واسع النطاق للمنصة على مستوى المملكة.
 
 ٢. **طلبات المصادقة لكل مستخدم**
@@ -63,7 +64,7 @@ This repository provides an analysis of the Nafath platform's user statistics as
 
 ### **Summarized Insights**
 
-1. **User Penetration**: **68.6%** of Saudi residents use Nafath (23.3M users) out of a population of **33.96M** (as of July 2024).  
+1. **User Penetration**: **66.0%** of Saudi residents use Nafath (23.3M users) out of a population of **35.3M** (as of mid-2024).  
 2. **Authentication Requests**: Each user made an average of **89** requests, totaling **2.08 billion** requests.  
 3. **Gender Distribution**: **67%** male, **33%** female users.  
 4. **App Adoption**: **89.3%** app adoption with **20.8M** downloads out of **23.3M** users.  
@@ -73,9 +74,9 @@ This repository provides an analysis of the Nafath platform's user statistics as
 ### **Insights in Detail**
 
 1. **User Penetration**:  
-   - As of July 2024, the Saudi population was approximately 33,962,800. ([Source: World Population Review](https://worldpopulationreview.com/countries/saudi-arabia))
-   - The Nafath platform had **23,297,934** users, achieving a penetration rate of **68.6%**, indicating widespread adoption nationwide.
-   - The July 2024 population figure is used to align with the last data update timestamp (2024-07-03 16:34:18) from [SDAIA's Open Data](https://open.data.gov.sa/en/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources), ensuring accuracy and relevance.
+   - As of mid-2024, the Saudi population was approximately 35,300,000. ([Source: General Authority for Statistics](https://www.stats.gov.sa/documents/20117/2067012/Population+Estimates+Publication+2024.pdf/aaf4f65c-8a9a-6f52-2490-6eb705e626e6?t=1738828639304))
+   - The Nafath platform had **23,297,934** users, achieving a penetration rate of approximately **66.0%**, indicating widespread adoption nationwide.
+   - The mid-2024 population figure is used to align with the last data update timestamp (2024-07-03 16:34:18) from [SDAIA's Open Data](https://open.data.gov.sa/en/datasets/view/8563c70c-c870-41cb-9c75-9a89a0cb4f90/resources), ensuring accuracy and relevance.
 
 2. **Authentication Requests per User**:  
    - With a total of **2,075,830,418** authentication requests and **23,297,934** users, the average number of requests per user was approximately **89**.  
