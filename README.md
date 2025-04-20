@@ -22,7 +22,9 @@
    - بلغ إجمالي طلبات المصادقة **2,075,830,418**، بمتوسط **89 طلبًا لكل مستخدم**، ما يعكس الاستخدام المتكرر لخدمات التحقق من الهوية في المنصة.
 
 ٣. **التوزيع حسب الجنس**
-   - يشكل الذكور **67%** من المستخدمين، بينما تمثل الإناث **33%**، يظهر ذلك أن الذكور يشكلون نسبة أكبر من مستخدمي نفاذ.
+   - يشكل الذكور **67%** من المستخدمين، بينما تمثل الإناث **33%**.
+   - ووفقًا للتقديرات السكانية لمنتصف عام 2024، فإن نسبة الذكور تبلغ تقريبًا **62.25%** ونسبة الإناث **37.85%**.
+   - هذا يعني أن نسبة الذكور في المنصة أعلى قليلًا من نسبتهم في المجتمع بشكل عام، ويُستنتج من ذلك أنهم يستخدمون منصة نفاذ بنسبة أعلى مقارنة بالإناث.
 
 ٤. **اعتماد التطبيق**
    - تم تحميل تطبيق نفاذ **20.8 مليون مرة** من إجمالي **23.3 مليون مستخدم**، بنسبة اعتماد بلغت **89.3%**.
@@ -83,7 +85,8 @@ This repository provides an analysis of the Nafath platform's user statistics as
 
 3. **Gender Distribution**:
    - Male users make up **67%** of the platform’s user base, while female users account for **33%**.
-   - This shows that male users represent a larger share of the platform's user base.
+   - According to the mid-2024 population, males represent approximately **62.25%** of the population, while females make up **37.85%**.
+   - This shows that the percentage of male users on the platform is slightly higher than their share in the general population. This indicates that males use the Nafath platform at a relatively higher rate than females.
 
 4. **User Base vs. App Adoption**:  
    - The platform has achieved an app adoption rate of **89.3%**, with **20,800,000 downloads** among **23,297,934 users**.
